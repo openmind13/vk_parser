@@ -202,8 +202,7 @@ def main():
         image_records.append(data[1])
         link_records.append(data[2])
 
-        # time.sleep(5)
-        break
+        time.sleep(5)
 
     parser.quit()
 
