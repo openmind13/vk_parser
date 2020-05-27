@@ -5,3 +5,6 @@ auth.json
 venv
 __pycache__
 chromedriver
+
+other.py
+write_thread.py
