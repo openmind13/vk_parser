@@ -1,0 +1,7 @@
+sheduler.py
+auth.json
+*.json
+.idea
+venv
+__pycache__
+chromedriver
